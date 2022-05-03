@@ -1,2 +1,4 @@
 # Restaurant-JS-Only
- Using mostly JS to create website
+Website made mostly with JS
+
+Demo: https://khallslearn.github.io/Restaurant-JS-Only/
